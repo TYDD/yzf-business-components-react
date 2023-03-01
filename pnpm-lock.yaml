@@ -57,10 +57,10 @@ importers:
 
   packages/login:
     specifiers:
-      '@mastack/utils': workspace:*
+      '@yzf-qs/utils': workspace:*
       typescript: ^4.9.3
     dependencies:
-      '@mastack/utils': link:../utils
+      '@yzf-qs/utils': link:../utils
     devDependencies:
       typescript: 4.9.3
 

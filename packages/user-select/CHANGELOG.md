@@ -1,4 +1,4 @@
-# @mastack/user-select
+# @yzf-qs/user-select
 
 ## 2.0.0
 

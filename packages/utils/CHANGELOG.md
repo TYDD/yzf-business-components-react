@@ -1,4 +1,4 @@
-# @mastack/utils
+# @yzf-qs/utils
 
 ## 2.0.0
 
