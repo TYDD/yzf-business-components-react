@@ -8,7 +8,7 @@
     "start": "next start",
     "lint": "next lint",
     "changeset": "changeset",
-    "compile": "pnpm --filter=@mastack/* run build",
+    "compile": "pnpm --filter=@yzf-qs/* run build",
     "version-packages": "changeset version",
     "pub": "pnpm compile && pnpm --recursive --registry https://registry.npmjs.org/ publish --access public"
   },
